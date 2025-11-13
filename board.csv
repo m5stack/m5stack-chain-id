@@ -5,7 +5,7 @@ BID ,Product name
 3,Chain Key
 4,Chain Joystick
 5,Chain ToF
-6,Chain Uart
+6,Unit ChainBus
 7,Chain Switch
 8,Chain Pedal
 9,Chain PIR
