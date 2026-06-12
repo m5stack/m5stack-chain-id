@@ -14,3 +14,6 @@ BID ,Product name
 12,Unit 8Servos2 Chain
 13,Chain Mono
 14,Chain RGB
+15,Chain ENV
+16,Chain IMU
+17,Chain DLight
